@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>dji_ros2_aerial_mapping_pipeline</name>
+  <version>0.1.0</version>
+  <description>Offline DJI aerial mapping intake and ROS 2 handoff pipeline.</description>
+  <maintainer email="karim@example.com">Karim</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>python3</exec_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

@@ -1,0 +1,7 @@
+manifest: data/example/mission_manifest.csv
+outputs:
+  sidecars: outputs/sidecars
+  geojson: outputs/camera_positions.geojson
+downstream:
+  footprint_repo: ../uav-building-footprint-extraction
+  slam_eval_repo: ../visual-slam-evaluation-kitti-euroc

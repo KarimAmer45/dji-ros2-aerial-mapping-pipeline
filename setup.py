@@ -20,7 +20,7 @@ setup(
     install_requires=[],
     zip_safe=True,
     maintainer="Karim",
-    maintainer_email="karim@example.com",
+    maintainer_email="karimamer456@gmail.com",
     description="Offline DJI aerial mapping intake and ROS 2 handoff pipeline.",
     license="MIT",
     entry_points={
